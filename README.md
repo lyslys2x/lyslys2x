@@ -1,8 +1,8 @@
 
 <div align="center"> <!-- Optional: Add a header image or GIF here. Many devs use a "typing" GIF or a generated banner. --> <!-- <img src="YOUR_BANNER_IMAGE_URL" width="100%" /> -->
 <h1>꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</h1>
-<h1>Hi there, I'm Alysa!</h1>
-<h3>🤖 AI Student | 📊 Data Science Enthusiast | 🧠 Deep Learning Researcher</h3>
+<h1>Hello, I'm Alysa!</h1>
+<h3>🤖 AI Student 𝄞𝄢 📊 Data Science Enthusiast 𝄞𝄢 🧠 Deep Learning Researcher</h3>
 <a href="https://lyslys2x.github.io/E-Portfolio/">Take a look at my portfolio!</a> <br>
 <h3><strong>About Me</strong></h3>
 I am currently a <strong>Year 2</strong> student at <strong>Temasek Polytechnic (TP)</strong> specializing in Applied Artificial Intelligence. My passion lies in bridging the gap between theoretical research and real-world applications. I love training models, cleaning messy datasets, and deploying ML pipelines.
