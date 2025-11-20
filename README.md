@@ -4,7 +4,7 @@
 <h1>Hi there, I'm Alysa!</h1>
 <h3>🤖 AI Student | 📊 Data Science Enthusiast | 🧠 Deep Learning Researcher</h3>
 <a href="#">Look at my portfolio!</a> <br>
-<strong>About Me</strong> <br>
+<h3><strong>About Me</strong></h3> <br>
 I am currently a <strong>Year 2</strong> student at <strong>Temasek Polytechnic (TP)</strong> specializing in Applied Artificial Intelligence. My passion lies in bridging the gap between theoretical research and real-world applications. I love training models, cleaning messy datasets, and deploying ML pipelines.
 🔭 I’m currently working on [Mention your main project, e.g., A RAG-based Chatbot for Legal Docs]
 🌱 I’m currently learning [e.g., Diffusion Models, MLOps, or Reinforcement Learning]
