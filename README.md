@@ -3,7 +3,7 @@
 <h1>꧁⎝ 𓆩༺✧༻𓆪 ⎠꧂</h1>
 <h1>Hello, I'm Alysa!</h1>
 <h3>🤖 AI Student ┆ 💻 Web/App Developer </h3>
-<a href="https://lyslys2x.github.io/E-Portfolio/">Take a look at my portfolio!</a> <br>
+<a href="https://lyslys2x.github.io/E-Portfolio/" target="_blank" rel="noopener noreferrer">Take a look at my portfolio!</a> <br>
 <h3><strong>About Me</strong></h3>
 I am currently a <strong>Year 2</strong> student at <strong>Temasek Polytechnic (TP)</strong> studying in Applied Artificial Intelligence and Software Engineering. My passion lies in deploying AI models in real-worls contexts that contribute positively to the lives of other. I love fine-tuning hyperparatmeters to obtain optimal outputs, devloping beautiful user interfaces and cleaning data! <br>
 <h3><strong>Current Projects</strong></h3>
