@@ -1,5 +1,6 @@
 <div align="center"> <!-- Optional: Add a header image or GIF here. Many devs use a "typing" GIF or a generated banner. --> <!-- <img src="YOUR_BANNER_IMAGE_URL" width="100%" /> -->
-<h1>Hi there, I'm [Your Name]! 👋</h1>
+<h1>────୨ৎ────</h1>
+<h1>Hi there, I'm Alysa!</h1>
 <h3>🤖 AI Student | 📊 Data Science Enthusiast | 🧠 Deep Learning Researcher</h3>
 <p> <a href="[Link to your Resume/CV]"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-View_Here-darkblue%3Fstyle%3Dfor-the-badge%26logo%3Dadobe-acrobat-reader%22 alt="Resume" /> </a> <a href="https://www.google.com/search?q=https://www.linkedin.com/in/[your-linkedin-handle]"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Connect-blue%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin" alt="LinkedIn" /> </a> <a href="mailto:[your-email]@gmail.com"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-Contact_Me-red%3Fstyle%3Dfor-the-badge%26logo%3Dgmail" alt="Email" /> </a> <a href="[Your Portfolio Website URL]"> <img src="https://www.google.com/search?q=https://img.shields.io/badge/Website-Portfolio-green%3Fstyle%3Dfor-the-badge%26logo%3Dfirefox" alt="Website" /> </a> </p> </div>
 🧐 About Me
