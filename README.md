@@ -6,6 +6,7 @@
 <a href="https://lyslys2x.github.io/E-Portfolio/">Take a look at my portfolio!</a> <br>
 <h3><strong>About Me</strong></h3>
 I am currently a <strong>Year 2</strong> student at <strong>Temasek Polytechnic (TP)</strong> studying in Applied Artificial Intelligence and Software Engineering. My passion lies in deploying AI models in real-worls contexts that contribute positively to the lives of other. I love fine-tuning hyperparatmeters to obtain optimal outputs, devloping beautiful user interfaces and cleaning data! <br>
+<h3><strong>Current Projects</strong></h3>
 🔭 I’m currently working on [Mention your main project, e.g., A RAG-based Chatbot for Legal Docs]
 🌱 I’m currently learning [e.g., Diffusion Models, MLOps, or Reinforcement Learning]
 👯 I’m looking to collaborate on [Open Source AI tools or Paper Implementations]
