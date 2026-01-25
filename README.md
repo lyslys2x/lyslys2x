@@ -45,6 +45,3 @@ A brief 1-sentence description. (e.g., A CNN model that detects plant diseases w
 	
 
 <div align="center"> <sub>Built with ❤️ by a future AI Engineer</sub> </div>
-<script>
-	lucide.createIcons();
-</script> 
